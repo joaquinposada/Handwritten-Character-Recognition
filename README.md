@@ -16,8 +16,8 @@ Implemented an image-processing workflow to segment and predict characters from 
 
 Files
 
-HW5_Q1_posada_joaquin.py — Letter classification
+letter_classification_model.py — Letter classification
 
-HW5_Q2_posada_joaquin.py — Combined letter + digit classification & phrase prediction
+digit_letter_model_combined.py — Combined letter + digit classification & phrase prediction
 
 testPhrase.png — Custom handwritten phrase used for testing
